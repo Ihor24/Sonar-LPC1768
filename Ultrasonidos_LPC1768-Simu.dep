@@ -1,0 +1,21 @@
+Dependencies for Project 'Ultrasonidos', Target 'LPC1768-Simu': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x5FEA28FB)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (C:\Keil\ARM\Startup\NXP\LPC17xx\system_LPC17xx.c)(0x5F7DC3E9)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C486C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C4C22)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C486C)
+F (.\Ultrasonidos.c)(0x5FFB3130)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\ultrasonidos.o --omf_browse .\ultrasonidos.crf --depend .\ultrasonidos.d)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x532C486C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C4C22)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C4C22)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C486C)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C80BA4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C80BA4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C80BA4)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C80BA4)
+I (audio_muestras.h)(0x5A32351A)

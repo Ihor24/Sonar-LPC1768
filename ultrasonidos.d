@@ -1,0 +1,13 @@
+.\ultrasonidos.o: Ultrasonidos.c
+.\ultrasonidos.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\ultrasonidos.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\ultrasonidos.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\ultrasonidos.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\ultrasonidos.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\ultrasonidos.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\ultrasonidos.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\ultrasonidos.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\ultrasonidos.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\ultrasonidos.o: GLCD.h
+.\ultrasonidos.o: lpc_types.h
+.\ultrasonidos.o: audio_muestras.h
